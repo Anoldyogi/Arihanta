@@ -1,4 +1,4 @@
-
+#just a demo
 supermarket={
     'store1':{
         "name":'durga Store',
